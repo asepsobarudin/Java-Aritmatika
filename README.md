@@ -1,2 +1,2 @@
 # Java-Aritmatika
-Learn Java Kalkulator
+Learn Java
